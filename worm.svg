@@ -1,0 +1,20 @@
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <line fill="none" id="svg_4" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" x1="394.5" x2="393.5" y1="221.5" y2="221.5"/>
+  <line fill="none" id="svg_3" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" x1="306.5" x2="305.5" y1="116.5" y2="116.5"/>
+  <line fill="none" id="svg_7" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" x1="299.5" x2="299.5" y1="116.5" y2="117.5"/>
+  <path d="m155.5,205.5c1.5,4.16667 13.16667,22.83333 29.5,30.5c16.33333,7.66667 29,10.33333 46,1c17,-9.33333 25,-17.66667 41,-29c16,-11.33333 34.66667,-26.66667 50,-28c15.33333,-1.33333 30.33333,6.66667 39,17c8.66667,10.33333 19.66667,26 33,34c13.33333,8 22.33333,14 43,9c20.66667,-5 47.33333,-23.66667 50,-37c2.66667,-13.33333 -3.66667,-28.66667 -25,-24c-9,7.66667 -19,23.66667 -30,23c-11,-0.66667 -27,-3.33333 -35,-13c-8,-9.66667 -37,-49 -74,-48c-37,1 -61.66667,25 -71,31c-9.33333,6 -20.66667,29 -38,27c-17.33333,-2 -28.33333,-21 -40,-24c-11.66667,-3 -15.5,-0.16667 -21,11c-5.5,11.16667 1,15.33333 2.5,19.5z" fill="#ffaa56" id="svg_2" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5"/>
+  <ellipse cx="453" cy="175.5" fill="#ffffff" id="svg_10" rx="14.5" ry="16" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5"/>
+  <ellipse cx="458" cy="175.5" fill="#000000" id="svg_5" rx="7.5" ry="8" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5"/>
+  <ellipse cx="494.5" cy="174.5" fill="#ffffff" id="svg_12" rx="14.5" ry="16" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5"/>
+  <ellipse cx="500.5" cy="176.5" fill="#000000" id="svg_13" rx="7.5" ry="8" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5"/>
+  <path d="m495.5,161.5c13,-3.66667 22,-6.33333 24,-20" fill="none" id="svg_14" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" transform="rotate(-36.0274 507.5 151.5)"/>
+  <path d="m505.5,164.5c13,-3.66667 22,-6.33333 24,-20" fill="none" id="svg_15" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" transform="rotate(-15.7086 517.5 154.5)"/>
+  <path d="m510.5,171.5c13,-3.66667 22,-6.33333 24,-20" fill="none" id="svg_16" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5"/>
+  <path d="m409.5,151.5c-3,13.66667 5,27.33333 18,29" fill="none" id="svg_19" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" transform="rotate(-38.9849 418.185 166)"/>
+  <path d="m418.81488,143c-3,13.66667 5,27.33333 18,29" fill="none" id="svg_20" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" transform="rotate(-1.4321 427.5 157.5)"/>
+  <path d="m426.81488,137c-3,13.66667 5,27.33333 18,29" fill="none" id="svg_21" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" transform="rotate(24.444 435.5 151.5)"/>
+ </g>
+</svg>
